@@ -48,6 +48,3 @@ Not deployed yet. To deploy, push the project to GitHub, import the repository i
 ## Future enhancements
 Add authentication and roles, backend/database storage, team sharing, API caching, broader filtering, and more comprehensive tests.
 
-## Submission links
-- GitHub repository: **Add your public repository URL here after creating it.**
-- Live Vercel application: **Not deployed yet. Add the live URL after deployment.**
